@@ -1,0 +1,7 @@
+1.Crear carpeta
+2. seleccionar el vscode la carpeta
+3. npm init -y
+4. npm i express  herramienta para el servidor 
+5. npm i -g nodemon  levanta automaticamente el server con lo nuevo
+6. localhost:8080   cannot Get / ok  Prueba qeu esta bien configurado
+7. plugin para ver mejor los json Json Viewer
